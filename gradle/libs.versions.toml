@@ -1,5 +1,5 @@
 [versions]
-meadow = "2.25.3"
+meadow = "2.25.4"
 mirror = "1.6.8"
 
 [libraries]
