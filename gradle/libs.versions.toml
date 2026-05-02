@@ -1,0 +1,7 @@
+[versions]
+meadow = "2.25.3"
+mirror = "1.6.8"
+
+[libraries]
+meadow = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "meadow" }
+mirror = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "mirror" }
