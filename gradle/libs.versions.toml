@@ -1,6 +1,6 @@
 [versions]
 meadow = "2.25.3"
-mirror = "1.6.8"
+mirror = "3.4.3"
 
 [libraries]
 meadow = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "meadow" }
